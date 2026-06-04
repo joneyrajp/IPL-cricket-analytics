@@ -1,0 +1,67 @@
+match_id,date,team1,team2,venue,toss_winner,toss_decision,winner,player_of_match,team1_score,team2_score,result_margin,result_type
+1,2024-03-22,CSK,RCB,Chepauk Stadium Chennai,CSK,bat,CSK,Ruturaj Gaikwad,206,173,33,runs
+2,2024-03-23,PBKS,DC,HPCA Stadium Dharamsala,DC,field,PBKS,Shikhar Dhawan,189,186,3,wickets
+3,2024-03-24,GT,SRH,Narendra Modi Stadium Ahmedabad,GT,field,SRH,Abhishek Sharma,162,163,5,wickets
+4,2024-03-24,RR,LSG,Sawai Mansingh Stadium Jaipur,RR,bat,RR,Yashasvi Jaiswal,193,165,28,runs
+5,2024-03-25,KKR,SRH,Eden Gardens Kolkata,KKR,field,KKR,Sunil Narine,208,159,49,runs
+6,2024-03-25,MI,GT,Wankhede Stadium Mumbai,MI,bat,MI,Rohit Sharma,189,155,34,runs
+7,2024-03-26,DC,RR,Arun Jaitley Stadium Delhi,RR,field,RR,Sanju Samson,185,198,13,wickets
+8,2024-03-27,CSK,GT,Chepauk Stadium Chennai,CSK,bat,CSK,MS Dhoni,196,183,13,runs
+9,2024-03-28,LSG,KKR,BRSABV Ekana Stadium Lucknow,LSG,field,KKR,Venkatesh Iyer,214,156,58,runs
+10,2024-03-29,RCB,PBKS,Chinnaswamy Stadium Bangalore,RCB,bat,RCB,Virat Kohli,183,181,2,runs
+11,2024-03-30,SRH,MI,Rajiv Gandhi Intl Stadium Hyderabad,SRH,bat,SRH,Abhishek Sharma,277,246,31,runs
+12,2024-03-31,CSK,RR,Chepauk Stadium Chennai,CSK,field,RR,Yashasvi Jaiswal,212,216,4,wickets
+13,2024-04-01,GT,DC,Narendra Modi Stadium Ahmedabad,GT,bat,GT,Shubman Gill,202,175,27,runs
+14,2024-04-02,LSG,PBKS,BRSABV Ekana Stadium Lucknow,PBKS,field,PBKS,Shikhar Dhawan,176,177,6,wickets
+15,2024-04-03,KKR,RCB,Eden Gardens Kolkata,KKR,bat,KKR,Sunil Narine,222,126,96,runs
+16,2024-04-04,SRH,CSK,Rajiv Gandhi Intl Stadium Hyderabad,CSK,field,SRH,Pat Cummins,167,143,24,runs
+17,2024-04-05,MI,DC,Wankhede Stadium Mumbai,MI,bat,DC,Axar Patel,234,235,5,wickets
+18,2024-04-06,GT,LSG,Narendra Modi Stadium Ahmedabad,GT,field,LSG,Krunal Pandya,168,172,4,wickets
+19,2024-04-07,RR,PBKS,Sawai Mansingh Stadium Jaipur,RR,bat,RR,Riyan Parag,196,157,39,runs
+20,2024-04-08,RCB,KKR,Chinnaswamy Stadium Bangalore,KKR,field,RCB,Virat Kohli,187,182,5,runs
+21,2024-04-09,SRH,LSG,Rajiv Gandhi Intl Stadium Hyderabad,SRH,bat,SRH,Travis Head,182,136,46,runs
+22,2024-04-10,DC,CSK,Arun Jaitley Stadium Delhi,CSK,field,CSK,Ravindra Jadeja,221,224,7,wickets
+23,2024-04-11,PBKS,KKR,HPCA Stadium Dharamsala,KKR,field,KKR,Rinku Singh,141,142,4,wickets
+24,2024-04-12,MI,RR,Wankhede Stadium Mumbai,RR,bat,RR,Sanju Samson,179,196,17,wickets
+25,2024-04-13,GT,RCB,Narendra Modi Stadium Ahmedabad,GT,bat,RCB,Faf du Plessis,148,168,20,wickets
+26,2024-04-14,SRH,DC,Rajiv Gandhi Intl Stadium Hyderabad,SRH,bat,SRH,Heinrich Klaasen,266,191,75,runs
+27,2024-04-15,KKR,MI,Eden Gardens Kolkata,KKR,field,KKR,Andre Russell,169,146,23,runs
+28,2024-04-16,CSK,LSG,Chepauk Stadium Chennai,CSK,bat,CSK,Devon Conway,210,175,35,runs
+29,2024-04-17,RR,GT,Sawai Mansingh Stadium Jaipur,RR,bat,RR,Shimron Hetmyer,196,161,35,runs
+30,2024-04-18,PBKS,SRH,HPCA Stadium Dharamsala,SRH,field,PBKS,Arshdeep Singh,214,206,8,runs
+31,2024-04-19,DC,KKR,Arun Jaitley Stadium Delhi,KKR,field,KKR,Varun Chakravarthy,153,194,41,runs
+32,2024-04-20,RCB,LSG,Chinnaswamy Stadium Bangalore,RCB,bat,RCB,Virat Kohli,212,197,15,runs
+33,2024-04-21,MI,CSK,Wankhede Stadium Mumbai,MI,bat,MI,Hardik Pandya,218,206,12,runs
+34,2024-04-22,SRH,RR,Rajiv Gandhi Intl Stadium Hyderabad,RR,field,SRH,Travis Head,201,185,16,runs
+35,2024-04-23,GT,PBKS,Narendra Modi Stadium Ahmedabad,GT,bat,PBKS,Sam Curran,142,143,7,wickets
+36,2024-04-24,LSG,DC,BRSABV Ekana Stadium Lucknow,DC,field,DC,Tristan Stubbs,178,181,3,wickets
+37,2024-04-25,KKR,CSK,Eden Gardens Kolkata,KKR,bat,KKR,Sunil Narine,235,176,59,runs
+38,2024-04-26,RR,RCB,Sawai Mansingh Stadium Jaipur,RCB,field,RR,Sanju Samson,183,176,7,runs
+39,2024-04-27,SRH,GT,Rajiv Gandhi Intl Stadium Hyderabad,SRH,bat,SRH,Abhishek Sharma,175,162,13,runs
+40,2024-04-28,MI,PBKS,Wankhede Stadium Mumbai,MI,field,MI,Jasprit Bumrah,192,167,25,runs
+41,2024-04-29,DC,LSG,Arun Jaitley Stadium Delhi,DC,bat,DC,David Warner,208,172,36,runs
+42,2024-04-30,RCB,SRH,Chinnaswamy Stadium Bangalore,SRH,field,RCB,Virat Kohli,206,218,12,wickets
+43,2024-05-01,CSK,KKR,Chepauk Stadium Chennai,CSK,field,KKR,Mitchell Starc,176,177,5,wickets
+44,2024-05-02,GT,RR,Narendra Modi Stadium Ahmedabad,RR,field,RR,Dhruv Jurel,180,183,3,wickets
+45,2024-05-03,LSG,MI,BRSABV Ekana Stadium Lucknow,LSG,bat,MI,Rohit Sharma,214,218,4,wickets
+46,2024-05-04,PBKS,DC,HPCA Stadium Dharamsala,PBKS,bat,PBKS,Jonny Bairstow,167,161,6,runs
+47,2024-05-05,KKR,RR,Eden Gardens Kolkata,KKR,field,KKR,Rinku Singh,223,209,14,runs
+48,2024-05-06,SRH,CSK,Rajiv Gandhi Intl Stadium Hyderabad,SRH,bat,SRH,Heinrich Klaasen,212,179,33,runs
+49,2024-05-07,RCB,GT,Chinnaswamy Stadium Bangalore,RCB,bat,RCB,Rajat Patidar,189,147,42,runs
+50,2024-05-08,DC,MI,Arun Jaitley Stadium Delhi,DC,field,DC,Kuldeep Yadav,163,143,20,runs
+51,2024-05-09,LSG,RR,BRSABV Ekana Stadium Lucknow,RR,field,LSG,Nicholas Pooran,176,171,5,runs
+52,2024-05-10,CSK,PBKS,Chepauk Stadium Chennai,CSK,bat,CSK,Rachin Ravindra,219,189,30,runs
+53,2024-05-11,KKR,GT,Eden Gardens Kolkata,KKR,bat,KKR,Sunil Narine,200,178,22,runs
+54,2024-05-12,SRH,RCB,Rajiv Gandhi Intl Stadium Hyderabad,RCB,field,SRH,Pat Cummins,175,171,4,runs
+55,2024-05-13,MI,LSG,Wankhede Stadium Mumbai,LSG,field,MI,Rohit Sharma,214,206,8,runs
+56,2024-05-14,DC,RR,Arun Jaitley Stadium Delhi,RR,field,RR,Riyan Parag,179,198,19,wickets
+57,2024-05-15,PBKS,KKR,HPCA Stadium Dharamsala,PBKS,bat,KKR,Venkatesh Iyer,147,150,3,wickets
+58,2024-05-16,GT,CSK,Narendra Modi Stadium Ahmedabad,CSK,field,CSK,MS Dhoni,175,172,3,runs
+59,2024-05-17,RCB,MI,Chinnaswamy Stadium Bangalore,MI,field,RCB,Virat Kohli,201,169,32,runs
+60,2024-05-18,SRH,LSG,Rajiv Gandhi Intl Stadium Hyderabad,SRH,bat,SRH,Travis Head,209,163,46,runs
+61,2024-05-19,KKR,DC,Eden Gardens Kolkata,KKR,field,KKR,Sunil Narine,211,176,35,runs
+62,2024-05-20,RR,MI,Sawai Mansingh Stadium Jaipur,RR,bat,MI,Hardik Pandya,164,168,4,wickets
+63,2024-05-21,SRH,RR,Rajiv Gandhi Intl Stadium Hyderabad,SRH,bat,SRH,Abhishek Sharma,175,157,18,runs
+64,2024-05-22,KKR,SRH,Eden Gardens Kolkata,KKR,field,KKR,Sunil Narine,276,259,17,runs
+65,2024-05-24,RR,KKR,Narendra Modi Stadium Ahmedabad,RR,field,KKR,Venkatesh Iyer,177,178,2,wickets
+66,2024-05-26,KKR,SRH,Narendra Modi Stadium Ahmedabad,KKR,field,KKR,Ramandeep Singh,113,109,8,wickets
